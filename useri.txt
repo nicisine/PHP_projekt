@@ -1,0 +1,10 @@
+obicni user:
+
+User: user
+Pass: user
+
+
+Admin user:
+
+User: admin
+Pass: admin
